@@ -1,0 +1,2 @@
+User- http://syntaxerror.epizy.com/
+Admin- http://syntaxerror.epizy.com/wp-admin/
